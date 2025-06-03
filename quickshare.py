@@ -2,6 +2,8 @@
 """
 quickshare  —  turn any folder into a browsable, QR-scannable download page.
 
+Tested on MacOS.
+
 Usage examples
 --------------
 # Share current directory on port 8000 (default)
