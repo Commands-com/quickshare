@@ -2,7 +2,7 @@
 """
 quickshare  —  turn any folder into a browsable, QR-scannable download page.
 
-Tested on MacOS.
+Works on MacOS.
 
 Usage examples
 --------------
